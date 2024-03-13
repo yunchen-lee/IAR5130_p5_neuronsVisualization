@@ -1,4 +1,4 @@
-# IAR5130_p5_neuronsVisualization
+# Neurons Visualization
 arduino (nrf24l01+wemos) 
 1. communicate by MQTT
 2. accumulation and decay of the linking weight 
